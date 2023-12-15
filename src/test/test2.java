@@ -29,7 +29,6 @@ public class test2 {
 
         int[] pole = new int[10];
         for (int i = 0; i < pole.length; i++) {
-            pole[i] =
         }
     }
 
